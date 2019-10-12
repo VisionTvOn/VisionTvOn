@@ -301,13 +301,24 @@
 <item>
 
 <item>
-<title>[B] 22 Milhas - [COLOR deeppink](2018)[/COLOR] - [COLOR lime](HD)[/COLOR] - [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre>[COLOR blue]AÇÃO THRILLER[/COLOR]</genre>
-<date>10 de junho de 2016</date>
+<title>[B] Mulan - [COLOR deeppink](1998)[/COLOR] - [COLOR lime](HD)[/COLOR] - [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iGBToHX7d4GsvQP4blFA5TsU_1wYnX_r/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7orfSLncDBQrFQpUkoAfunWNySk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/cTQiSrWhTDJPW8p56CUCoVNJZYl.jpg</fanart>
+<info>Na antiga China, durante a guerra, todos os homens são convocados para lutar. Mas, um pobre velho, que pela idade não poderia mais lutar, descobre que sua filha Mulan toma o seu lugar, vestindo-se como homem e permanecendo em segredo. Se isso for descoberto, o castigo será severo. Agora, durante a guerra, Mulan ganha a proteção de um pequeno dragão, cuja missão é cuidar para que ela volte a salvo</info>
+<genre>[COLOR blue]ANIMAÇÃO FAMÍLIA AVENTURA[/COLOR]</genre>
+<date>18 de junho de 1998</date>
+</item>
+<item>
+
+<item>
+<title>[B] Mulan 2: A Lenda Continua - [COLOR deeppink](2004)[/COLOR] - [COLOR lime](HD)[/COLOR] - [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1XAug0UbA3UQR6zP_xoCrJfRkozxdssnV/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/sZQixvNogFhXFQSUlPYinNWeQ0w.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/f8BobrxGnAFObYRSN1BTIzQbEMW.jpg</fanart>
+<info>O casamento entre Shang e Mulan está para acontecer, quando subitamente são enviados a uma missão secreta: escoltar três princesas chinesas até a Mongólia, com a finalidade de se casarem com príncipes mongóis e selarem a paz entre os dois reinos. Filme produzido diretamente para o mercado caseiro.</info>
+<genre>[COLOR blue]ANIMAÇÃO COMÉDIA FAMÍLIA AÇÃO[/COLOR]</genre>
+<date> 13 de novembro de 2004</date>
 </item>
 <item>
 
@@ -321,5 +332,4 @@
 <date>10 de junho de 2016</date>
 </item>
 <item>
-
 
