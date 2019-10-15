@@ -100,91 +100,193 @@
 <item>
 
 <item>
-<title>[B] 1 Piloto - [COLOR lime](HD)[/COLOR] - [/B]</title>
+<title>[B] 1 Guerra de Irmãos - [COLOR lime](HD)[/COLOR] - [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UsU-8lDCqv4LlRSNW2SyAYw4Pi3JTx3d/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/zOtq6mPbgmeuLjAAgt2p3DF7zqA.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/hil6WD1rfMKAkuuM5ldI4YZKVn8.jpg</fanart>
+<info>A guerra travada entre Ragnar e o exército do Rei Horik contra Jarl Borg coloca irmão contra irmão. Enquanto isso, a Princesa Aslaug chega a Kattegat com uma surpresa.</info>
+</item>
+<item>
+
+<item>
+<title>[B] 2 Invasão - [COLOR lime](HD)[/COLOR] - [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1heZOa2HRrnl_BOImIwOgndlrppH2y1uX/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/fNTvPUeldtfm8THkrC8hOZjibs2.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/hil6WD1rfMKAkuuM5ldI4YZKVn8.jpg</fanart>
+<info>Uma improvável aliança se forma com um objetivo comum: saquear a Inglaterra. Uma tempestade muda o curso da frota de Ragnar, colocando-os na rota de um poderoso inimigo.</info>
+</item>
+<item>
+
+<item>
+<title>[B] 3 Traição - [COLOR lime](HD)[/COLOR] - [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/165wWXjcirHFHv9bu-kMJ2RlRfR0iSi4V/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/a7v9k61yKmqRnRvr20cw4lzckJq.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/hil6WD1rfMKAkuuM5ldI4YZKVn8.jpg</fanart>
+<info>Os vikings de Wessex atacam com com força total. Já o rei Ecbert se vê enfrentando um novo tipo de inimigo, enquanto Ragnar corre para dominar o oeste. Para completar, Jarl Borg possui seus próprios planos com relação ao futuro de Kattegat.</info>
+</item>
+<item>
+
+<item>
+<title>[B] 4 Olho por Olho - [COLOR lime](HD)[/COLOR] - [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1RMTFKYu3qeFc1wPq0zbumdsdGTtzFPXg/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xJQi4HFtOWHzQ0a2lb6qMTQZOOB.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/hil6WD1rfMKAkuuM5ldI4YZKVn8.jpg</fanart>
+<info>Uma reunião entre Ragnar e Ecbert pode pavimentar o caminho para um acordo futuro. Enquanto isso, Jarl Borg comanda Kattegat com pulso de ferro. Para completar, Rollo precisa se tornar o líder na ausência de Ragnar.</info>
+</item>
+<item>
+
+<item>
+<title>[B] 5 Respostas em Sangue - [COLOR lime](HD)[/COLOR] - [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1IG1RL24GB3WsHSxMqrN0Ca9hBjWr6wli/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/uMctGpmxDEfFcLDv37y63IxURHC.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/hil6WD1rfMKAkuuM5ldI4YZKVn8.jpg</fanart>
+<info>Lagertha e Ragnar se unem mais uma vez, enquanto Aslaug precisa enfrentar a verdade de suas profecias. Já Athelstan sofre para definir sua fé, ao mesmo tempo em que Bjorn precisa fazer uma escolha.</info>
+</item>
+<item>
+
+<item>
+<title>[B] 6 Imperdoável - [COLOR lime](HD)[/COLOR] - [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=15gwL8aP6RmyuOVPmBnbqpsZ92OxWrZr-</link>
+<thumbnail>https://image.tmdb.org/t/p/original/vRfmwQkXw8qyuXZ7DsfXKEEITFz.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/hil6WD1rfMKAkuuM5ldI4YZKVn8.jpg</fanart>
+<info>O rei Horik retorna a Kattehat com uma proposta surpreendente para Ragnar. Enquanto isso, Lagertha não é recebida com entusiasmo por seu marido. Para completar, Athelstan se torna o confidente do rei Ecbert.</info>
+</item>
+<item>
+
+<item>
+<title>[B] 7 Águia de Sangue - [COLOR lime](HD)[/COLOR] - [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DKsdNBshaXFQ9UuMv689iK24NlUG-lm7/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/5cifsP8FNSVolSgVFx88ctHfRpp.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/hil6WD1rfMKAkuuM5ldI4YZKVn8.jpg</fanart>
+<info>Ragnar e Horik batem de frente sobre como lidar com Jarl Borg. Enquanto isso, o rei Aelle aparece em Wessex, enquanto Ecbert fica de olho em uma nova aliança.</info>
+</item>
+<item>
+
+<item>
+<title>[B] 8 Desossado - [COLOR lime](HD)[/COLOR] - [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZADPu0BohLFXS6KvJ0Y7QjWE_cPaHhZ8/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/vkGBj6OvILV38zMckfKrE40mlwq.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/hil6WD1rfMKAkuuM5ldI4YZKVn8.jpg</fanart>
+<info>A última profecia da princesa Aslaug é concretizada enquanto ela se prepara para dar a luz mais uma vez. Enquanto isso, Ragnar e Horik possuem visões diferentes sobre o verdadeiro propósito da viagem a Wessex.</info>
+</item>
+<item>
+
+<item>
+<title>[B] 9 A Escolha - [COLOR lime](HD)[/COLOR] - [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mlDEtjAVXUUobc3fuKprPxzRogpWSQ-t/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/zoNFrK1ARgFtuT15v9VGbqSjt3m.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/hil6WD1rfMKAkuuM5ldI4YZKVn8.jpg</fanart>
+<info>Os guerreiros vikings de Ragnar marcham em direção à fortaleza do Rei Ecbert e se deparam com uma surpreendente recepção, dando início a uma batalha sangrenta.</info>
+</item>
+<item>
+
+<item>
+<title>[B] 10 A Oração do Senhor - [COLOR lime](HD)[/COLOR] - [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vJIEihq0bWSRIFlPP4PUgdGLdAhVVq01/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/dBfQlXePKuoSwy6eCUOY8t2irOb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/hil6WD1rfMKAkuuM5ldI4YZKVn8.jpg</fanart>
+<info>Ragnar e o Rei Horik retornam a Kattegat para um duelo final. Chegou a hora de Ragnar considerar fazer novas alianças e a colocar sua confiança naqueles que ficaram ao seu lado.</info>
+</item>
+<item>
+
+<item>
+<title>[B] [COLOR white] Vikings 3º Temporada[/COLOR] - [COLOR deeppink](2015)[/COLOR] - [COLOR lime](HD)[/COLOR] - [/B]</title>
+<link>https://</link>
+<thumbnail>https://image.tmdb.org/t/p/original/4Uxn08aBsbVZKkbysdbgLQVbYi3.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fM0rLrI0oTE0NWGnnCGeVmmgGxm.jpg</fanart>
+<info>Agora rei, Ragnar continua inquieto e carrega uma grande responsabilidade em seus ombros. Com a promessa dos ingleses de novas terras, Ragnar leva seu povo a um destino incerto na costa de Wessex. O rei Ecbert fez diversas promessas e será preciso acompanhar para descobrir se ele vai mantê-las. Enquanto isso, Ragnar está em busca de algo mais, algo que encontra na cidade mítica de Paris. O rumor é que ela é impenetrável por forças externas, portanto cabe a Ragnar e seu grupo de nórdicos se juntarem a fim de quebrar os muros e cimentar a lenda dos vikings na história. A saga de Ragnar, Rollo, Lagertha e Bjorn continua enquanto alianças e amizades leais são questionadas, a fé é catequizada e as relações se complicam.</info>
+<genre>[COLOR blue]AÇÃO/AVENTURA/DRAMA[/COLOR]</genre>
+</item>
+<item>
+
+<item>
+<title>[B] 10 A Oração do Senhor - [COLOR lime](HD)[/COLOR] - [/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
 <thumbnail></thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/hil6WD1rfMKAkuuM5ldI4YZKVn8.jpg</fanart>
+<fanart>https://image.tmdb.org/t/p/original/fM0rLrI0oTE0NWGnnCGeVmmgGxm.jpg</fanart>
 <info></info>
 </item>
 <item>
 
 <item>
-<title>[B] 1 Piloto - [COLOR lime](HD)[/COLOR] - [/B]</title>
+<title>[B] 10 A Oração do Senhor - [COLOR lime](HD)[/COLOR] - [/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
 <thumbnail></thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/hil6WD1rfMKAkuuM5ldI4YZKVn8.jpg</fanart>
+<fanart>https://image.tmdb.org/t/p/original/fM0rLrI0oTE0NWGnnCGeVmmgGxm.jpg</fanart>
 <info></info>
 </item>
 <item>
 
 <item>
-<title>[B] 1 Piloto - [COLOR lime](HD)[/COLOR] - [/B]</title>
+<title>[B] 10 A Oração do Senhor - [COLOR lime](HD)[/COLOR] - [/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
 <thumbnail></thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/hil6WD1rfMKAkuuM5ldI4YZKVn8.jpg</fanart>
+<fanart>https://image.tmdb.org/t/p/original/fM0rLrI0oTE0NWGnnCGeVmmgGxm.jpg</fanart>
 <info></info>
 </item>
 <item>
 
 <item>
-<title>[B] 1 Piloto - [COLOR lime](HD)[/COLOR] - [/B]</title>
+<title>[B] 10 A Oração do Senhor - [COLOR lime](HD)[/COLOR] - [/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
 <thumbnail></thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/hil6WD1rfMKAkuuM5ldI4YZKVn8.jpg</fanart>
+<fanart>https://image.tmdb.org/t/p/original/fM0rLrI0oTE0NWGnnCGeVmmgGxm.jpg</fanart>
 <info></info>
 </item>
 <item>
 
 <item>
-<title>[B] 1 Piloto - [COLOR lime](HD)[/COLOR] - [/B]</title>
+<title>[B] 10 A Oração do Senhor - [COLOR lime](HD)[/COLOR] - [/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
 <thumbnail></thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/hil6WD1rfMKAkuuM5ldI4YZKVn8.jpg</fanart>
+<fanart>https://image.tmdb.org/t/p/original/fM0rLrI0oTE0NWGnnCGeVmmgGxm.jpg</fanart>
 <info></info>
 </item>
 <item>
 
 <item>
-<title>[B] 1 Piloto - [COLOR lime](HD)[/COLOR] - [/B]</title>
+<title>[B] 10 A Oração do Senhor - [COLOR lime](HD)[/COLOR] - [/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
 <thumbnail></thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/hil6WD1rfMKAkuuM5ldI4YZKVn8.jpg</fanart>
+<fanart>https://image.tmdb.org/t/p/original/fM0rLrI0oTE0NWGnnCGeVmmgGxm.jpg</fanart>
 <info></info>
 </item>
 <item>
 
 <item>
-<title>[B] 1 Piloto - [COLOR lime](HD)[/COLOR] - [/B]</title>
+<title>[B] 10 A Oração do Senhor - [COLOR lime](HD)[/COLOR] - [/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
 <thumbnail></thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/hil6WD1rfMKAkuuM5ldI4YZKVn8.jpg</fanart>
+<fanart>https://image.tmdb.org/t/p/original/fM0rLrI0oTE0NWGnnCGeVmmgGxm.jpg</fanart>
 <info></info>
 </item>
 <item>
 
 <item>
-<title>[B] 1 Piloto - [COLOR lime](HD)[/COLOR] - [/B]</title>
+<title>[B] 10 A Oração do Senhor - [COLOR lime](HD)[/COLOR] - [/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
 <thumbnail></thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/hil6WD1rfMKAkuuM5ldI4YZKVn8.jpg</fanart>
+<fanart>https://image.tmdb.org/t/p/original/fM0rLrI0oTE0NWGnnCGeVmmgGxm.jpg</fanart>
 <info></info>
 </item>
 <item>
 
 <item>
-<title>[B] 1 Piloto - [COLOR lime](HD)[/COLOR] - [/B]</title>
+<title>[B] 10 A Oração do Senhor - [COLOR lime](HD)[/COLOR] - [/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
 <thumbnail></thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/hil6WD1rfMKAkuuM5ldI4YZKVn8.jpg</fanart>
+<fanart>https://image.tmdb.org/t/p/original/fM0rLrI0oTE0NWGnnCGeVmmgGxm.jpg</fanart>
 <info></info>
 </item>
 <item>
 
 <item>
-<title>[B] 1 Piloto - [COLOR lime](HD)[/COLOR] - [/B]</title>
+<title>[B] 10 A Oração do Senhor - [COLOR lime](HD)[/COLOR] - [/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
 <thumbnail></thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/hil6WD1rfMKAkuuM5ldI4YZKVn8.jpg</fanart>
+<fanart>https://image.tmdb.org/t/p/original/fM0rLrI0oTE0NWGnnCGeVmmgGxm.jpg</fanart>
 <info></info>
 </item>
 <item>
+
+
