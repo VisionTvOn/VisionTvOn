@@ -10,7 +10,7 @@
 
 <item>
 <title>[B] 1 Rituais de Passagem  - [COLOR lime](HD)[/COLOR] - [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Qc9TSA9PVtvUMMdOQflkAqJzhY2WCy7o/view</link>
+<link>plugin://plugin.video.drive.google?mode=streamURL&amp;url=https://drive.google.com/file/d/1Qc9TSA9PVtvUMMdOQflkAqJzhY2WCy7o/view</link>
 <thumbnail>https://image.tmdb.org/t/p/original/7cuiE0fvDXnCyVbQ5EXHtIz2sAr.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/A30ZqEoDbchvE7mCZcSp6TEwB1Q.jpg</fanart>
 <info>Um guerreiro viking busca a provação do líder de sua comunidade na abertura dessa série que narra as aventuras medievais de um grupo de nórdicos.</info>
