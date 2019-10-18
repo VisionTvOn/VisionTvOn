@@ -798,7 +798,7 @@ Assombrado pelo curso que tomou sua vida, com o passar do tempo ele abandona tud
 
 <item>
 <title>[B] El Camino: A Breaking Bad Film - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](HD)[/COLOR] - [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=playvideo&title=https://drive.google.com/file/d/1ibVlSBFDql5DyuFv4uNiT4SixtU_t3OP/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ibVlSBFDql5DyuFv4uNiT4SixtU_t3OP/view</link>
 <thumbnail>https://image.tmdb.org/t/p/original/p4Il6gsDrOvrW5vi1ndTDR98UmS.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/bzJNKVRLOR4cxuirVZTCrb3EQwH.jpg</fanart>
 <info>Após sua dramática fuga do cativeiro, Jesse precisa se reconciliar com o passado para que consiga criar algum tipo de futuro. Escrito e dirigido pelo criador de Breaking Bad, Vince Gilligan, e estrelado por Aaron Paul.</info>
@@ -809,7 +809,7 @@ Assombrado pelo curso que tomou sua vida, com o passar do tempo ele abandona tud
 
 <item>
 <title>[B] nome - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](HD)[/COLOR] - [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=playvideo&title=</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
