@@ -96,7 +96,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]TERRO/SUSPENSE/THRILLER[/COLOR] [COLOR deeppink]|[/COLOR]</name>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]TERROR/SUSPENSE[/COLOR] [COLOR deeppink]|[/COLOR]</name>
 <thumbnail>https://ia601401.us.archive.org/7/items/series_20191015_0206/Filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/VisionTvOn/VisionTvOn/master/TERRO-SUSPENSE-THRILLER%20HD%20DUBLADO</externallink>
 <fanart>https://ia801401.us.archive.org/7/items/series_20191015_0206/fanart.jpg</fanart>
@@ -135,6 +135,18 @@
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]DC[/COLOR] [COLOR deeppink]|[/COLOR]</name>
 <thumbnail>https://ia601401.us.archive.org/7/items/series_20191015_0206/Filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/VisionTvOn/VisionTvOn/master/DC%20HD%20DUBLADO</externallink>
+<fanart>https://ia801401.us.archive.org/7/items/series_20191015_0206/fanart.jpg</fanart>
+<info>[COLOR deeppink]|[/COLOR]- OS MELHORES LANÇAMENTOS -[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]LANÇAMENTOS 2020[/COLOR] [COLOR deeppink]|[/COLOR]</name>
+<thumbnail>https://ia601401.us.archive.org/7/items/series_20191015_0206/Filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/VisionTvOn/VisionTvOn/master/Lancamentos%20Dublados%202020</externallink>
 <fanart>https://ia801401.us.archive.org/7/items/series_20191015_0206/fanart.jpg</fanart>
 <info>[COLOR deeppink]|[/COLOR]- OS MELHORES LANÇAMENTOS -[COLOR deeppink]|[/COLOR]</info>
 </channel>
