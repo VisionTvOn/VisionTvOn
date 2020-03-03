@@ -76,39 +76,12 @@
 <item>
 
 <item>
-<title>[B][COLOR white](500) DIAS COM ELA[/COLOR][/B]</title>
-<link>$doregex[BP1]500DSCMELA.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/Filmes/(500)%20Dias%20com%20Ela.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/Filmes/(500)%20Dias%20com%20Ela.jpg</fanart>
-<info>Tom Hansen (Joseph Gordon-Levitt) está em uma reunião com seu chefe, Vance (Clark Gregg), quando ele apresenta sua nova assistente, Summer Finn (Zooey Deschanel). Tom logo fica impressionado com sua beleza, o que faz com que tente, nas duas semanas seguintes, realizar algum tipo de contato. Sua grande chance surge quando seu melhor amigo o convida a ir em um karaokê, onde os colegas de trabalho costumam ir. Lá Tom encontra Summer. Eles também cantam e conversam sobre o amor, dando início a um relacionamento.</info>
-<date>2009</date>
+<title>[B] De Carona para o Amor - [COLOR deeppink](2018)[/COLOR] - [COLOR lime](HD)[/COLOR] - [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ntoMDOUSLWyhi3kqmioION6lT-4r4g9Y/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/yAlNDE3bdS3CmpdO7UoJr9y7ScE.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/kq2Q91AUB6catLkjMdIyIfPha10.jpg</fanart>
+<info>Jocelyn, bem-sucedido homem de negócios, é um sedutor e mentiroso inveterado. Apesar de cansado de si mesmo, acaba seduzindo uma jovem bonita, fingindo ser deficiente, até o dia em que ela lhe apresenta sua irmã, que é realmente deficiente.</info>
+<genre>[COLOR blue] ROMANCE</genre>
+<date>14 de março de 2018</date>
 </item>
 <item>
-<title>[B][COLOR white](DES)ENCONTRO PERFEITO[/COLOR][/B]</title>
-<link>$doregex[BP1]DESNCTROPRFTO.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/Filmes/Desencontro%20Perfeito.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/Filmes/Desencontro%20Perfeito.jpg</fanart>
-<info>Nancy (Lake Bell) tem 34 anos de idade e leva uma vida fracassada no amor. Quando ela viaja a Londres para o aniversário de casamento de seus pais, conhece Jack (Simon Pegg), que confunde Nancy com a garota que ele está esperando para um encontro às cegas. Sem desfazer a confusão, Nancy assume a identidade da garota que Jack esperava, e passa uma ótima noite ao lado do pretendente. Mas uma hora a mentira vai ser descoberta...</info>
-<date>2015</date>
-</item>
-<item>
-<title>[B][COLOR white]20 ANOS MAIS JOVEM[/COLOR][/B]</title>
-<link>$doregex[BP1]20ANSMSJVNS.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/Filmes/20%20Anos%20Mais%20Jovem.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/Filmes/20%20Anos%20Mais%20Jovem.jpg</fanart>
-<info></info>
-<date>2013</date>
-</item>
-
