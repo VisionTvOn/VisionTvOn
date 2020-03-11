@@ -30,7 +30,7 @@
 
 <item>
 <title>[B] Adele: Live at the Royal Albert Hall  - [COLOR deeppink](2011)[/COLOR] - [COLOR lime](HD)[/COLOR] - [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DWbeaeUksMnJIXfgPGDgWBwEZ-xmUkfE/view</link>
+<link>https://www.googleapis.com/drive/v3/files/1DWbeaeUksMnJIXfgPGDgWBwEZ-xmUkfE?alt=media&key=AIzaSyATxuUD-HVcsBYgfZA-rlsw29gsx2MiFh4</link>
 <thumbnail>https://image.tmdb.org/t/p/original/sFekQs6fDr7Viev85kwg7HUri1j.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/aZOixhsa3ZxfqsEu1JkZEyz8rEW.jpg</fanart>
 <info>Adele, esse é o nome que ganhou o mundo e o Brasil. A maior revelação de 2011 vendeu mais de 12 milhões de cópias de seu último disco. No Brasil, seu primeiro álbum é disco de Ouro com mais de 20 mil cópias e o segundo é Platina Duplo com mais de 80 mil discos vendidos.</info>
